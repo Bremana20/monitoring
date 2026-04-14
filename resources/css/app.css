@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.progress-bar {
+    background: linear-gradient(90deg, #2563eb 0%, #1d4ed8 100%);
+}
